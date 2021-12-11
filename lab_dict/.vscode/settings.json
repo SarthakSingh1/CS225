@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "map": "cpp",
+        "memory": "cpp",
+        "regex": "cpp",
+        "utility": "cpp"
+    }
+}
